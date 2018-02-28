@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlexboxOrder", "FlexboxOrde
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactForm", "ContactForm\ContactForm.csproj", "{7D80D273-70F8-44C8-AD29-F1910E332785}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankCredit", "BankCredit\BankCredit.csproj", "{C3665CE3-A559-4D3D-B881-174A14AC38B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankCredit", "BankCredit\BankCredit.csproj", "{C3665CE3-A559-4D3D-B881-174A14AC38B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRCompany", "HRCompany\HRCompany.csproj", "{BCE917BF-10A6-4ABC-9C74-1AB42E660392}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HRCompany", "HRCompany\HRCompany.csproj", "{BCE917BF-10A6-4ABC-9C74-1AB42E660392}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponsiveCV", "ResponsiveCV\ResponsiveCV.csproj", "{CED5567F-812A-48A3-8966-ACF8DD895869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnresponsiveWebSite", "UnresponsiveWebSite\UnresponsiveWebSite.csproj", "{2C7C96B6-4D83-4E88-B01B-816B45D947DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{BCE917BF-10A6-4ABC-9C74-1AB42E660392}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCE917BF-10A6-4ABC-9C74-1AB42E660392}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCE917BF-10A6-4ABC-9C74-1AB42E660392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CED5567F-812A-48A3-8966-ACF8DD895869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED5567F-812A-48A3-8966-ACF8DD895869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED5567F-812A-48A3-8966-ACF8DD895869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED5567F-812A-48A3-8966-ACF8DD895869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7C96B6-4D83-4E88-B01B-816B45D947DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7C96B6-4D83-4E88-B01B-816B45D947DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7C96B6-4D83-4E88-B01B-816B45D947DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7C96B6-4D83-4E88-B01B-816B45D947DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
