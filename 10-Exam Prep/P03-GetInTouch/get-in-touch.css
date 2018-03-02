@@ -82,11 +82,11 @@ main {
     margin-top: 40px;
 }
 
-    #contacts article {
+    #contacts .contacts-container {
         width: 80%;
     }
 
-    #contacts h3 {
+    #contacts .contacts-title {
         color: #3E3F40;
         border-bottom: 1px solid #D3D3D3;
         margin-top: 20px;
@@ -100,5 +100,5 @@ main {
     }
 
     #contacts p {
-        padding-left: 25px;
+        padding-left: 25px; /**/
     }
