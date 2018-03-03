@@ -1,4 +1,8 @@
 @media screen and (min-width: 741px) {
+    #wrapper {
+        margin: 0 auto;
+    }
+
     #info {
         width: 60%;
     }
@@ -43,14 +47,25 @@
     #wrapper {
         min-width: unset;
         padding: 0;
-        margin: 0 5px;
+        margin: 0 5%;
     }
 
     #photo img {
         max-width: 90%;
     }
 
+    #skills {
+    }
+
+    ul li {
+        line-height: 1.5;
+    }
+
+    h1, h2, h3, p, ul li {
+        word-wrap: break-word;
+    }
+
     h2 {
-        font-size: 2em;
+        font-size: 1.8em;
     }
 }
